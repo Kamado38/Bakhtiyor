@@ -1,2 +1,0 @@
-# Bakhtiyor
-My First Project
